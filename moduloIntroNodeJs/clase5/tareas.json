@@ -1,0 +1,16 @@
+[
+    {
+        "titulo": "to do list",
+        "estado": "en progreso"
+    },
+
+    {
+        "titulo": "trabajo",
+        "estado": "pendiente"
+    },
+
+    {
+        "titulo": "ejercicios",
+        "estado": "terminada"
+    }
+]
